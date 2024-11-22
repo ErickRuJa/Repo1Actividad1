@@ -1,0 +1,6 @@
+# ignorar archivo configlocal.sh
+configlocal.sh
+
+# ignorar carpeta o directorio 
+personal_erick/
+
